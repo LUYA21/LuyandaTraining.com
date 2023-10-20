@@ -1,2 +1,4 @@
 #Ignore Text Files
 *.txt
+# Ignore all jpg files
+*.jpg
